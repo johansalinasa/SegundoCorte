@@ -1,4 +1,4 @@
-# PATRONES DE DISEÑO
+# _PATRONES DE DISEÑO_
 
 Los patrones de diseño (design patterns) son elementos reutilizables creados para resolver problemas comunes. Es decir que con su aplicación y utilización podremos corregir diferentes problemas que presenta nuestro código de una manera segura, estable y testeada por cientos de programadores de todo el mundo.
 
